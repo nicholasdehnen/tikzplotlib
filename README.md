@@ -1,3 +1,15 @@
+This repository contains fixes for tikzplotlib by:
+- [JasonGross](https://github.com/JasonGross)
+- [FriedrichFroebel](https://github.com/FriedrichFroebel)
+- [strangeflavoured](https://github.com/strangeflavoured)
+- [thekpaul](https://github.com/thekpaul)
+
+Tested and should work with python=3.12 and matplotlib=3.9.1.
+Makes tikzplotlib usable until the main repository by [nschloe](https://github.com/nschloe) (hopefully) sees some life again sometime soon.
+
+To install, use `pip install git+https://github.com/nicholasdehnen/tikzplotlib.git`.
+
+---
 <p align="center">
   <a href="https://github.com/nschloe/tikzplotlib"><img alt="tikzplotlib" src="https://nschloe.github.io/tikzplotlib/logo-tikzplotlib.svg" width="60%"></a>
   <p align="center">The artist formerly known as <em>matplotlib2tikz.</em></p>
